@@ -11,7 +11,7 @@ Analysis to gain performance insights from dataset containing information on 1,0
 > [Limitation / Issues](https://github.com/Afokoghene/Unicorn-Companies/#Limitation-/-Issues) <br>
 > [Data Analysis](https://github.com/Afokoghene/Unicorn-Companies/#data-analysis) <br>
 > [Data Visualization](https://github.com/Afokoghene/Unicorn-Companies/#data-visualization) <br>
-> [Insights](https://github.com/Afokoghene/Unicorn-Companies/#insights) <br>
+> [Insights and Recommendations](https://github.com/Afokoghene/Unicorn-Companies/#Insights-and-Recommendations) <br>
 
 ---
 
@@ -192,6 +192,11 @@ This aims to determine which continent has the most companies located within it.
 </p>
 
 The answer to this question is displayed in the bar chart above, showing that North America is the continent with the most companies located in it, with a total count of 589 companies. Asia, the continent with the second most Unicorn Companies, has a total of 310 companies. Africa is seen to be the continent with the least number of Unicorn Companies, as it has just three of those.
+- Asia comes in second place with 54 companies in the E-commerce & direct-to-consumer industry and 38 companies in the Fintech industry.
+- Interestingly, the Fintech industry is the most widespread among continents, with a presence in all continents and at least 2 companies in each.
+- The Mobile and Telecommunications industry is the second most common across continents, with at least 1 company present in each continent except for Oceania.
+
+- It would have made much more sense to compare countries and continents by their average ROI to determine the most successful ones based on the ROI from companies located in each region. However, in m opinion this approach might not be ideal, as countries like Bermuda, with only one company, would top the chart. On the other hand, countries like the USA and China, with the most companies, would be somewhere in the middle. Thus, I do not believe this method would provide a fair representation.
 
 ---
 
@@ -199,6 +204,34 @@ The answer to this question is displayed in the bar chart above, showing that No
 This the visual representation for this project was built using MS Excel and each was built to match each question to be answered and for that reason there is no dashbpard for this. Please refer to the Data Analysis section to view visuals created.
 
 ---
+
+
+## Insights and Recommendations
+
+
+1. Based on the dataset, Zapier stands out as the most profitable company, achieving a remarkable Return On Investment of 99.98%. With an initial funding of $1 Million, it grew to a valuation of $4 Billion within 10 years of its founding. Potential investors should consider Zapier when looking for profitable investment opportunities. Dunamu comes in as the second most profitable company in the dataset, securing an initial funding of $71 Million and currently valued at $9 Billion, with a Return on Investment of 99.21% since its founding. Workhuman and CGFI closely follow with respective ROIs of 99.10% and 99.05%.
+
+2. In the dataset, the USA leads with 562 companies that have achieved Unicorn status. This indicates that the USA is a favorable environment for startups to flourish. Founders may consider launching their companies in the USA, given the significant number of Unicorn companies compared to other countries in the dataset. China follows as the second country with the most Unicorn companies, totaling 173. India, the United Kingdom, and Germany trail behind with 65, 43, and 26 Unicorn companies, respectively.
+
+3. As previously observed, the USA leads in the number of companies achieving Unicorn status. Among the cities in the USA, San Francisco and New York stand out with 152 and 103 unicorn companies, respectively, making them the top two cities in this regard. This reaffirms the USA's position as a favorable environment for startup growth. In China, Beijing, the capital city and the second country with the most unicorn companies, boasts 63 such companies, establishing itself as a significant player in the startup landscape. Following closely are Shanghai and London with 44 and 34 companies, respectively.
+
+4. Based on the dataset, it is observed that in 2021, the highest number of companies (520) became Unicorns. However, in 2022, only 116 companies achieved Unicorn status. This discrepancy might be due to incomplete information for the year 2022, as the dataset was collected before the year's end. In 2020 and 2019, there were 108 and 104 companies, respectively, which became Unicorns.
+- In 2011, we see that the average return on investment (ROI) was the second-highest at 87.32%. The following year, 2012, the average ROI dropped to 83.82%. On the other hand, in 2014, we observed the lowest average ROI of 52.92%. This was because two companies had negative ROIs. One of these companies started with $2 billion in funding but only reached a valuation of $1 billion when it became a Unicorn in 2014, resulting in an ROI of -100.00%. The other company started with $3 billion in funding and reached a Unicorn status with a valuation of $2 billion, leading to an ROI of -50%.
+
+5. The Internet Software and Services industry has the highest average ROI among companies, at 82.60% based on the recorded dataset. This suggests that companies in this sector experienced the most returns. Future investors may find it advisable to consider investing in companies within this industry. Following closely is the Data Management and Analytics industry, which boasts an average ROI of 81.65%, making it another attractive option for investors. Fintech and Cybersecurity have similar average ROIs of 79.72% and 79.71% respectively, making them promising choices as well.
+
+6. North America has 589 companies, making it the continent with the highest number of companies achieving the Unicorn Status. Out of these 589 companies, 562 are located in the USA. However, it cannot be asserted that the entire continent is a favorable breeding ground for startups, as the companies are concentrated in the USA, which is widely recognized as the primary hub for startups in the region.
+
+Asia follows closely with 310 companies reaching the Unicorn status, making it the continent with the second-highest number of such companies. On the other hand, Africa has only 3 companies that have reached the Unicorn status, making it the continent with the fewest companies achieving this milestone.
+
+---
+
+Thank you for reading up until this spot. I do need a job (paid or unpaid internships to gain more experience, full time jobs where I can of course learn on the job too). Send me an email on afokeosiobe@gmail.com or connect with me on [Twitter](https://twitter.com/__afoke?t=_YX2DAel3R3aWZGDvSEZ9w&s=09), and [LinkedIn](https://www.linkedin.com/in/afokoghene-osiobe-arierhi-9b235b25b).
+
+
+
+
+
 
 
 
